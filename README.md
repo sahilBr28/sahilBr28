@@ -78,8 +78,6 @@ AI-powered healthcare assistant platform designed to help users with intelligent
 
 # 🧩 Coding Profiles
 
-# 🧩 Coding Profiles
-
 <p align="center">
   <a href="https://leetcode.com/u/sahil_br28/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
