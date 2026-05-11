@@ -78,11 +78,21 @@ AI-powered healthcare assistant platform designed to help users with intelligent
 
 # 🧩 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahil_br28/)
+# 🧩 Coding Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZoroNome)
+<p align="center">
+  <a href="https://leetcode.com/u/sahil_br28/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sahilkumas13z)
+  <a href="https://codeforces.com/profile/ZoroNome">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/sahilkumas13z">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
