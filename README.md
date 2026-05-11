@@ -89,7 +89,7 @@ AI-powered healthcare assistant platform designed to help users with intelligent
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilBr28&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilBr28&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ AI-powered healthcare assistant platform designed to help users with intelligent
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilBr28&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilBr28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
