@@ -94,18 +94,10 @@ AI-powered healthcare assistant platform designed to help users with intelligent
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilBr28&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilBr28&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilBr28&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sahilBr28&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
